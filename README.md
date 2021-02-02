@@ -13,7 +13,7 @@ pillow
 
 
 
-####使用方法：
+#### 使用方法：
 
 从[官网](https://cg.cs.tsinghua.edu.cn/ThuDogs/ )下载 TsinghuaDog 数据集，并将 root_dir 指向 TsinghuaDog 数据集。
 
