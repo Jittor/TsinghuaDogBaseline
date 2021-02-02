@@ -17,8 +17,10 @@ pillow
 
 从[官网](https://cg.cs.tsinghua.edu.cn/ThuDogs/ )下载 TsinghuaDog 数据集，并将 root_dir 指向 TsinghuaDog 数据集。
 
+使用如下一行命令即可进行训练和测试
+
 ```bash
-python main.py # 即可执行（默认使用 GPU 执行）
+python main.py # （默认使用 GPU 执行）
 ```
 
  
